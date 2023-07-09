@@ -54,6 +54,10 @@ body::before{
 	text-align: center;
 }
 
+.lista-de-personagens .personagem {
+	border-bottom: 4px solid #47f4ff;
+}
+
 .lista-de-personagens .personagem img {
 	width: 100%;
 	height: 100%;
